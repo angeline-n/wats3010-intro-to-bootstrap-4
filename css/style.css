@@ -71,3 +71,8 @@ footer {
 .footer-item-flex {
 	flex: 0 1 auto;
 }
+
+footer a:nth-child(2) {
+	padding: 0 2rem;
+}
+	
